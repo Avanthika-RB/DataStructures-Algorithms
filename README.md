@@ -1,1 +1,2 @@
-# cs245-AvanthikaRajathy
+# DataStructures-Algorithms
+CS245
